@@ -1,5 +1,5 @@
 {
-  "name": "react-with-cognito-sample-js-webapp",
+  "name": "aws-amplify-sample-js-webapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
