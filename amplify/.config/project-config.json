@@ -1,0 +1,20 @@
+{
+    "projectName": "amplifysample1",
+    "projectPath": "C:\\Dev\\git\\aws-amplify-sample-js-webapp",
+    "defaultEditor": "code",
+    "frontendHandler": {
+        "javascript": "C:\\Users\\mta\\AppData\\Roaming\\nvm\\v8.11.4\\node_modules\\@aws-amplify\\cli\\node_modules\\amplify-frontend-javascript"
+    },
+    "javascript": {
+        "framework": "react",
+        "config": {
+            "SourceDir": "src",
+            "DistributionDir": "build",
+            "BuildCommand": "npm.cmd run-script build",
+            "StartCommand": "npm.cmd run-script start"
+        }
+    },
+    "providers": {
+        "awscloudformation": "C:\\Users\\mta\\AppData\\Roaming\\nvm\\v8.11.4\\node_modules\\@aws-amplify\\cli\\node_modules\\amplify-provider-awscloudformation"
+    }
+}
